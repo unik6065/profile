@@ -20,7 +20,7 @@ body {
 .card {
   border-radius: 5px;
   border: 1px solid lightgrey;
-  background-color: #F0F2FA;
+  background-color: rgb(230, 255, 233);
   margin-bottom: 1px;
   padding: 40px 0;
   margin: 20px;
@@ -29,7 +29,7 @@ body {
 }
 
 .card:hover {
-  background-color: #F0F3FF;
+  background-color: #dbf9c6;
 }
 
 .text-center {
@@ -51,13 +51,13 @@ body {
 .blue-clickable-text {
   font-family: 'Roboto Mono', monospace;
   color: white;
-  background-color: #355691;
+  background-color: #359152;
   padding: 10px;
   border-radius: 5px;
 }
 
 .blue-text-link {
-  color: #30292F;
+  color: #29302d;
   font-family: 'Roboto Mono', monospace;
   font-size: 25px;
 }
